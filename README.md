@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinidu Minsara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniduminsara&label=Profile%20views&color=4a92bf&style=flat" alt="viniduminsara" /> </p>
+<h3 align="center">A passionate developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **@ Institute of Software Engineering**
 
@@ -10,6 +8,8 @@
 - 💬 Ask me about **java,MySQL,css**
 
 - 📫 How to reach me **viniduminsara@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniduminsara&label=Profile%20views&color=4a92bf&style=flat" alt="viniduminsara" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
