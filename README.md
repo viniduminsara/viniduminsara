@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vinidu Minsara</h1>
-<h3 align="center">A passionate developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **@ Institute of Software Engineering**
 
