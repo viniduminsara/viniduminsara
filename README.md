@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/ViniduMinsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viniduminsara" height="30" width="40" /></a>
 <a href="https://www.behance.net/viniduminsara65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="viniduminsara65" height="30" width="40" /></a>
 <a href="https://medium.com/@viniduminsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@viniduminsara" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/#2604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/#2604" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/users/viniduminsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/#2604" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack:
