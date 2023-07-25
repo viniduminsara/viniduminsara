@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/viniduminsara](https://github.com/viniduminsara)
 
-- 💬 Ask me about **java,MySQL,CSS**
+- 💬 Ask me about **java,MySQL,HTML,CSS**
 
 - 📫 How to reach me **viniduminsara@gmail.com**
 
